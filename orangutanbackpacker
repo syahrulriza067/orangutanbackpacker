@@ -46,7 +46,7 @@
     </style>
 </head>
 <body>
-    <img src="C:\Users\Riza\Documents\bukitlawang\logo.jpg" class="profile-img">
+    <img src="logo.jpg" class="profile-img" alt="Logo">
     <h1>Orangutans Backpacker</h1>
     <p>Guesthouse & Jungle trekking</p>
     <a href="booking.com/orangutanbackpacker" class="link">Booking.com</a>
